@@ -1,0 +1,110 @@
+@media (max-width:320px) {
+	.boxPhoto img{
+		width: 70%;
+	} 
+ }
+
+html, body {
+	height: 100%;
+	font-weight: bold;
+}
+h1,
+h2,
+{
+	font-family:'Oswald';
+}
+h2,
+h4{
+	color:#1a0868;
+	padding:1%;
+}
+
+header{
+	margin: 5% 0% 2%;
+}
+nav a {
+	text-decoration: none;
+	text-transform: uppercase;
+	color: black;
+	margin: 5%;
+}
+.navbar{
+	font-family:'Oswald';
+	margin:0;
+}
+
+nav a:hover{
+	color: #990066;
+}
+
+.pb-3{
+	padding-bottom: 3%;
+}
+
+.hero-image{
+	background: url("../images/background.jpg");
+	background-size: 100%;
+	padding-top: 4%;
+	border-top:1px solid black;
+	color: #fff;
+}
+
+.name{
+	font-family:'Oswald';
+	padding: 2% 0% 4% 0%;
+}
+/*background*/
+.about-me{
+	background: url("../images/tile1.png");
+	padding: 6% 0% 3% 0%;
+}
+
+.text-center{
+	text-align: center;
+	color: white;
+}
+.nombre{
+	font-size: 40px;
+	padding-top: 50px;
+	font-family:Oswald;
+}
+
+.title{
+	font-family: Oswald;
+	color:#990066;
+	text-align: center;
+}
+
+.favourite{
+	padding-bottom: 0%
+}
+
+.here{
+	font: 1em Oswald;
+	margin-top: 3%;
+	padding-bottom: 0%;
+}
+
+.img-thumbnail{
+	color: black;
+}
+
+.descripcion{	
+	font-size: 1em;
+	font-weight: normal;
+	margin-bottom: 0;
+}
+
+.my-favourites-things{
+	padding: 6% 0% 3%;
+ }
+
+.imagesPie{	
+	margin-top: 5%;
+	padding-bottom: 2%;
+	background: url("../images/tile2.png");
+}
+/*footer*/
+footer .row{
+	padding: 2% 20%;
+}
